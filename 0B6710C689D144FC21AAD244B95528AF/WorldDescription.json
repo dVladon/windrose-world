@@ -1,0 +1,35 @@
+{
+	"Version": 1,
+	"WorldDescription":
+	{
+		"islandId": "0B6710C689D144FC21AAD244B95528AF",
+		"WorldName": "Архипелаг ГУЛАГ",
+		"CreationTime": 6.3912304661112998e+17,
+		"WorldPresetType": "Easy",
+		"WorldSettings":
+		{
+			"BoolParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.Coop.SharedQuests\"}": true,
+				"{\"TagName\": \"WDS.Parameter.EasyExplore\"}": false
+			},
+			"FloatParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.MobHealthMultiplier\"}": 0.70000000000000007,
+				"{\"TagName\": \"WDS.Parameter.MobDamageMultiplier\"}": 0.59999999999999998,
+				"{\"TagName\": \"WDS.Parameter.ShipsHealthMultiplier\"}": 0.70000000000000007,
+				"{\"TagName\": \"WDS.Parameter.ShipsDamageMultiplier\"}": 0.59999999999999998,
+				"{\"TagName\": \"WDS.Parameter.BoardingDifficultyMultiplier\"}": 0.70000000000000007,
+				"{\"TagName\": \"WDS.Parameter.Coop.StatsCorrectionModifier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.Coop.ShipStatsCorrectionModifier\"}": 0
+			},
+			"TagParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.CombatDifficulty\"}":
+				{
+					"TagName": "WDS.Parameter.CombatDifficulty.Easy"
+				}
+			}
+		}
+	}
+}
